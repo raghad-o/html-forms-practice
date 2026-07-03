@@ -15,5 +15,5 @@ A feedback form developed to practice using a variety of HTML form controls.
 ## Technologies Used
 - HTML5
 
-## Learning Objective
+## Purpose
 Practice working with different HTML form elements and user input controls.
